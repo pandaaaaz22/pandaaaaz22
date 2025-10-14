@@ -17,6 +17,8 @@ Welcome to my GitHub profile! 🚀
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/rahul-a-7a737b255/)
+- [Portfolio](https://pandaaaaz.netlify.app/)
+- [Email](rahularahul0000@gmail.com)
 
 ---
 
