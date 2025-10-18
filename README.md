@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀
 - 😶‍🌫️ Fun fact: **I work in HIGH mode**
 
 ## 🛠️ Technologies & Tools
-- Languages: C, C++
+- Languages: C, C++, Python
 - Frontend: HTML, CSS, JS, React.Js
 - Developer Tools: GitHub, Git
 - Other Tools: MS word, Excel, Powerpoint
