@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pandaaaaz22&show_icons=true&theme=tokyonight)
+![Rahul's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pandaaaaz22&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pandaaaaz22&layout=compact&theme=tokyonight)
 
