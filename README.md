@@ -10,7 +10,7 @@
 * 🐧 Linux & Networking enthusiast
 * 🧠 Love solving **CTFs & security challenges**
 * 💻 Interested in **Pentesting & Vulnerability Analysis**
-* ⚡ Fun fact: I do my best work in **HIGH focus mode**
+* 😶‍🌫️ Fun fact: I do my best work in **HIGH focus mode**
 
 ---
 
@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats-sooty-ten-71.vercel.app/api?username=pandaaaaz22&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats-sooty-ten-71.vercel.app/api?username=pandaaaaz22&show_icons=true&theme=dark)
 
-![langs](https://github-readme-stats-sooty-ten-71.vercel.app/api/top-langs/?username=pandaaaaz22&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats-sooty-ten-71.vercel.app/api/top-langs/?username=pandaaaaz22&layout=compact&theme=dark)
 
 
 ---
