@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pandaaaaz22&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats-sooty-ten-71.vercel.app/api?username=pandaaaaz22&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pandaaaaz22&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats-sooty-ten-71.vercel.app/api/top-langs/?username=pandaaaaz22&layout=compact&theme=tokyonight)
 
 
 ---
