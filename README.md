@@ -44,6 +44,11 @@
 
 ![langs](https://github-readme-stats-sooty-ten-71.vercel.app/api/top-langs/?username=pandaaaaz22&layout=compact&theme=dark)
 
+---
+
+## 🏴‍☠️ TryHackMe
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rahularahul0000.png)
 
 ---
 
