@@ -48,7 +48,7 @@
 
 ## 🏴‍☠️ TryHackMe
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3379737)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rahularahul0000.png)](https://tryhackme.com/p/3379737)
 
 ---
 
