@@ -46,11 +46,25 @@
 
 ---
 
-## 🏴‍☠️ TryHackMe
+## 🧠 Cybersecurity Platforms
+
+### 🏴‍☠️ TryHackMe
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rahularahul0000.png)](https://tryhackme.com/p/3379737)
 
 ---
+
+### 🧊 Hack The Box
+
+![HackTheBox Badge](https://www.hackthebox.com/badge/image/3181261)
+
+---
+
+### 📊 Current Focus
+
+> 🔐 Actively learning: Privilege Escalation, Web Exploitation & Network Enumeration
+> 🎯 Goal: Become a Professional Penetration Tester
+
 
 ## 🌐 Connect With Me
 
