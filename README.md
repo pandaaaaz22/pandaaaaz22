@@ -46,6 +46,14 @@
 
 ---
 
+## 🧠 Cybersecurity Platforms
+
+### 🏴‍☠️ TryHackMe
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rahularahul0000.png)](https://tryhackme.com/p/3379737)
+
+---
+
 ### 📊 Current Focus
 
 > 🔐 Actively learning: Privilege Escalation, Web Exploitation & Network Enumeration
@@ -55,7 +63,7 @@
 ## 🌐 Connect With Me
 
 * 💼 https://www.linkedin.com/in/rahul-a-7a737b255/
-* 🌍 https://pandaaaaz.netlify.app/
+* 🌍 https://pandaaaaz22.tech/
 * 🧩 https://leetcode.com/u/rahularahul0000
 * ✉️ [rahularahul0000@gmail.com](mailto:rahularahul0000@gmail.com)
 
